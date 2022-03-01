@@ -5,12 +5,13 @@
 * Api yazılacak ve  HttPost methodunu kullanacak.
 * EMail validasyonda girilen email uygun olup olmadığı kontrol edilsin.
 * Password için uzunluk kontrolü 8 karakter olacak en az 1 büyük harf en az 1 karakter en az bir sayı olacak.
+* Dataannotions da RegEx attribute custom attribute yazabilirsiniz validasyonlar için.
 * Hata mesajları döncek. 
 * Response tipi için class yazılacak.
 * Prop olarak Success error ve data olacak.
 * Başarılı postlar success true data giriş işlemi başarılı error null gelecek.
 * Hatalı postlar succes false data null error hatalı giriş dönecek
+* Hata mesajları Türkçe olmalıdır.
+* Tüm alanlar zorunlu olmalıdır.
 
-
-
-
+* Referans : https://stackoverflow.com/questions/16796445/net-regex-specific-to-net-c-sharp-dataannotations
