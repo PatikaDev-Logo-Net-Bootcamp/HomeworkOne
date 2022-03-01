@@ -16,4 +16,4 @@
 
 * Referans : https://stackoverflow.com/questions/16796445/net-regex-specific-to-net-c-sharp-dataannotations
 
-#NOT: Ödevler Classroma yüklenecektir. 
+# NOT: Ödevler Classroma yüklenecektir. 
